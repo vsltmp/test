@@ -1,0 +1,15 @@
+ Volume in drive D is DATA
+ Volume Serial Number is FAD2-FA46
+
+ Directory of d:\temp\git\test
+
+12/03/2016  09:27 PM    <DIR>          .
+12/03/2016  09:27 PM    <DIR>          ..
+12/03/2016  07:34 PM               494 1.txt
+12/03/2016  09:27 PM                 0 2.txt
+12/03/2016  07:34 PM         1,305,088 Analisys_InPresale.ppt
+12/03/2016  07:38 PM                63 file2.txt
+12/03/2016  07:16 PM                22 README.md
+12/03/2016  07:34 PM            34,816 Thumbs.db
+               6 File(s)      1,340,483 bytes
+               2 Dir(s)  145,263,005,696 bytes free
